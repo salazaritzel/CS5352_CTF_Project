@@ -1,3 +1,5 @@
+Made a copy of the cybench instructions here so we dont have to keep on going to their repo everytime.
+
 # Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risk
 
 This repository contains code used in the Cybench project ([website](https://cybench.github.io), [paper](https://arxiv.org/abs/2408.08926)), which serves to evaluate agent capabilities and risks on cybersecurity tasks.
